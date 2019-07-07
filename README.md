@@ -17,7 +17,7 @@ What's more in the library:
 
 - The software serial was used and the Tx and Rx pins can be directly selected from the main program, this to give more flexibily as possible.
 
-- The ncessary code to create and delete directories has been added. It is possible to create up to ten levels of subdirectories.
+- The necessary code to create and delete directories has been added. It is possible to create up to ten levels of subdirectories.
   The code allow to create and manipulate files inside to the directories and subdirectories as well.
 
 - The serial terminal is used to monitor the commands executions and the reply received from the CH376s IC
