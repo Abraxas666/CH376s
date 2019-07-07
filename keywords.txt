@@ -1,0 +1,20 @@
+/*
+  Keywords - Arduino library support for the CH376s USB integrated circuit
+  Author: Abraxas666
+  
+  This library has been made to easily interface and use the CH376s IC with the Arduino Uno/Mega
+  This library makes use of the SoftwareSerial library, Rx and Tx pins can be directly configured from the main program
+ 
+*/
+
+CH376s					KEYWORD1		
+checkConnection			KEYWORD1
+checkUnexpectMsg		KEYWORD1
+init					KEYWORD1		
+
+readFile				KEYWORD2		
+writeFile				KEYWORD2		
+deleteFile				KEYWORD2		
+appendFile				KEYWORD2		
+openDir					KEYWORD2				
+deleteDir				KEYWORD2
