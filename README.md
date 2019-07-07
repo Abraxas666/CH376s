@@ -13,7 +13,7 @@ What's more in the library:
   This to make the library more understandable and remove the existing exadecimal part of code present in the old projects.
 
 - In the old projects to execute a single command it was necessary to execute more funcions consecutively in the the main code.
-  For this reason some additional macro-funcions was created to allow the final users to execute only a single funtion in the main code and obtain the expected result.
+  For this reason some additional macro-functions were created to allow the final users to execute only a single funtion in the main code and obtain the expected result.
 
 - The software serial was used and the Tx and Rx pins can be directly selected from the main program, this to give more flexibily as possible.
 
