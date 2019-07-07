@@ -1,4 +1,4 @@
-# CH376s libary v1.0.0
+# CH376s library v1.0.0
 
 This is an Arduino library for control the serial USB CH376s IC, it work with Aruino Uno/Mega ( other to be tested ) using the SoftwareSerial 
 
